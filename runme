@@ -1,1 +1,1 @@
-cargo run ~/programs/nomindo/rom/Legend\ of\ Zelda\,\ The\ -\ Ocarina\ of\ Time\ \(U\)\ \(V1.2\)\ \[\!\].z64 
+cargo run -- ~/programs/nomindo/rom/pifdata.bin ~/programs/nomindo/rom/Fire\ Demo\ by\ Lac\ \(PD\).z64 
